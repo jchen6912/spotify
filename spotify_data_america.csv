@@ -1,0 +1,973 @@
+group,variable,value
+1-Jan,Canada,1
+1-Jan,Costa Rica,1
+1-Jan,Dominican Rep.,1
+1-Jan,Guatemala,1
+1-Jan,Honduras,1
+1-Jan,Mexico,1
+1-Jan,Panama,1
+1-Jan,El Salvador,1
+1-Jan,United States,1
+8-Jan,Canada,0.82
+8-Jan,Costa Rica,0.8
+8-Jan,Dominican Rep.,0.82
+8-Jan,Guatemala,0.89
+8-Jan,Honduras,0.86
+8-Jan,Mexico,0.79
+8-Jan,Panama,0.87
+8-Jan,El Salvador,0.89
+8-Jan,United States,0.76
+15-Jan,Canada,0.8
+15-Jan,Costa Rica,0.8
+15-Jan,Dominican Rep.,0.79
+15-Jan,Guatemala,0.8
+15-Jan,Honduras,0.8
+15-Jan,Mexico,0.78
+15-Jan,Panama,0.82
+15-Jan,El Salvador,0.81
+15-Jan,United States,0.76
+22-Jan,Canada,0.79
+22-Jan,Costa Rica,0.79
+22-Jan,Dominican Rep.,0.78
+22-Jan,Guatemala,0.73
+22-Jan,Honduras,0.76
+22-Jan,Mexico,0.78
+22-Jan,Panama,0.79
+22-Jan,El Salvador,0.79
+22-Jan,United States,0.74
+29-Jan,Canada,0.75
+29-Jan,Costa Rica,0.78
+29-Jan,Dominican Rep.,0.76
+29-Jan,Guatemala,0.72
+29-Jan,Honduras,0.74
+29-Jan,Mexico,0.73
+29-Jan,Panama,0.76
+29-Jan,El Salvador,0.7
+29-Jan,United States,0.7
+5-Feb,Canada,0.71
+5-Feb,Costa Rica,0.75
+5-Feb,Dominican Rep.,0.69
+5-Feb,Guatemala,0.72
+5-Feb,Honduras,0.7
+5-Feb,Mexico,0.72
+5-Feb,Panama,0.73
+5-Feb,El Salvador,0.67
+5-Feb,United States,0.65
+12-Feb,Canada,0.68
+12-Feb,Costa Rica,0.73
+12-Feb,Dominican Rep.,0.66
+12-Feb,Guatemala,0.68
+12-Feb,Honduras,0.67
+12-Feb,Mexico,0.68
+12-Feb,Panama,0.7
+12-Feb,El Salvador,0.66
+12-Feb,United States,0.65
+19-Feb,Canada,0.63
+19-Feb,Costa Rica,0.72
+19-Feb,Dominican Rep.,0.65
+19-Feb,Guatemala,0.64
+19-Feb,Honduras,0.63
+19-Feb,Mexico,0.67
+19-Feb,Panama,0.65
+19-Feb,El Salvador,0.63
+19-Feb,United States,0.57
+26-Feb,Canada,0.61
+26-Feb,Costa Rica,0.7
+26-Feb,Dominican Rep.,0.61
+26-Feb,Guatemala,0.62
+26-Feb,Honduras,0.61
+26-Feb,Mexico,0.66
+26-Feb,Panama,0.66
+26-Feb,El Salvador,0.57
+26-Feb,United States,0.57
+5-Mar,Canada,0.57
+5-Mar,Costa Rica,0.65
+5-Mar,Dominican Rep.,0.54
+5-Mar,Guatemala,0.55
+5-Mar,Honduras,0.52
+5-Mar,Mexico,0.61
+5-Mar,Panama,0.54
+5-Mar,El Salvador,0.51
+5-Mar,United States,0.53
+12-Mar,Canada,0.56
+12-Mar,Costa Rica,0.63
+12-Mar,Dominican Rep.,0.55
+12-Mar,Guatemala,0.56
+12-Mar,Honduras,0.54
+12-Mar,Mexico,0.63
+12-Mar,Panama,0.55
+12-Mar,El Salvador,0.53
+12-Mar,United States,0.53
+19-Mar,Canada,0.47
+19-Mar,Costa Rica,0.61
+19-Mar,Dominican Rep.,0.51
+19-Mar,Guatemala,0.57
+19-Mar,Honduras,0.54
+19-Mar,Mexico,0.63
+19-Mar,Panama,0.52
+19-Mar,El Salvador,0.57
+19-Mar,United States,0.47
+26-Mar,Canada,0.46
+26-Mar,Costa Rica,0.6
+26-Mar,Dominican Rep.,0.51
+26-Mar,Guatemala,0.53
+26-Mar,Honduras,0.54
+26-Mar,Mexico,0.61
+26-Mar,Panama,0.52
+26-Mar,El Salvador,0.54
+26-Mar,United States,0.44
+2-Apr,Canada,0.44
+2-Apr,Costa Rica,0.61
+2-Apr,Dominican Rep.,0.51
+2-Apr,Guatemala,0.54
+2-Apr,Honduras,0.53
+2-Apr,Mexico,0.61
+2-Apr,Panama,0.51
+2-Apr,El Salvador,0.5
+2-Apr,United States,0.41
+9-Apr,Canada,0.4
+9-Apr,Costa Rica,0.61
+9-Apr,Dominican Rep.,0.5
+9-Apr,Guatemala,0.54
+9-Apr,Honduras,0.51
+9-Apr,Mexico,0.59
+9-Apr,Panama,0.48
+9-Apr,El Salvador,0.52
+9-Apr,United States,0.39
+16-Apr,Canada,0.38
+16-Apr,Costa Rica,0.58
+16-Apr,Dominican Rep.,0.51
+16-Apr,Guatemala,0.53
+16-Apr,Honduras,0.51
+16-Apr,Mexico,0.59
+16-Apr,Panama,0.49
+16-Apr,El Salvador,0.48
+16-Apr,United States,0.36
+23-Apr,Canada,0.37
+23-Apr,Costa Rica,0.53
+23-Apr,Dominican Rep.,0.49
+23-Apr,Guatemala,0.44
+23-Apr,Honduras,0.47
+23-Apr,Mexico,0.56
+23-Apr,Panama,0.47
+23-Apr,El Salvador,0.45
+23-Apr,United States,0.37
+30-Apr,Canada,0.35
+30-Apr,Costa Rica,0.53
+30-Apr,Dominican Rep.,0.46
+30-Apr,Guatemala,0.43
+30-Apr,Honduras,0.46
+30-Apr,Mexico,0.54
+30-Apr,Panama,0.41
+30-Apr,El Salvador,0.41
+30-Apr,United States,0.35
+7-May,Canada,0.33
+7-May,Costa Rica,0.51
+7-May,Dominican Rep.,0.46
+7-May,Guatemala,0.41
+7-May,Honduras,0.42
+7-May,Mexico,0.53
+7-May,Panama,0.4
+7-May,El Salvador,0.4
+7-May,United States,0.34
+14-May,Canada,0.32
+14-May,Costa Rica,0.51
+14-May,Dominican Rep.,0.42
+14-May,Guatemala,0.4
+14-May,Honduras,0.4
+14-May,Mexico,0.53
+14-May,Panama,0.41
+14-May,El Salvador,0.37
+14-May,United States,0.32
+21-May,Canada,0.35
+21-May,Costa Rica,0.47
+21-May,Dominican Rep.,0.41
+21-May,Guatemala,0.39
+21-May,Honduras,0.36
+21-May,Mexico,0.5
+21-May,Panama,0.39
+21-May,El Salvador,0.35
+21-May,United States,0.32
+28-May,Canada,0.31
+28-May,Costa Rica,0.48
+28-May,Dominican Rep.,0.41
+28-May,Guatemala,0.39
+28-May,Honduras,0.37
+28-May,Mexico,0.49
+28-May,Panama,0.39
+28-May,El Salvador,0.35
+28-May,United States,0.31
+4-Jun,Canada,0.31
+4-Jun,Costa Rica,0.46
+4-Jun,Dominican Rep.,0.39
+4-Jun,Guatemala,0.39
+4-Jun,Honduras,0.35
+4-Jun,Mexico,0.5
+4-Jun,Panama,0.35
+4-Jun,El Salvador,0.35
+4-Jun,United States,0.32
+11-Jun,Canada,0.31
+11-Jun,Costa Rica,0.44
+11-Jun,Dominican Rep.,0.38
+11-Jun,Guatemala,0.38
+11-Jun,Honduras,0.34
+11-Jun,Mexico,0.48
+11-Jun,Panama,0.33
+11-Jun,El Salvador,0.34
+11-Jun,United States,0.3
+18-Jun,Canada,0.28
+18-Jun,Costa Rica,0.47
+18-Jun,Dominican Rep.,0.38
+18-Jun,Guatemala,0.36
+18-Jun,Honduras,0.33
+18-Jun,Mexico,0.49
+18-Jun,Panama,0.32
+18-Jun,El Salvador,0.31
+18-Jun,United States,0.29
+25-Jun,Canada,0.28
+25-Jun,Costa Rica,0.45
+25-Jun,Dominican Rep.,0.35
+25-Jun,Guatemala,0.33
+25-Jun,Honduras,0.33
+25-Jun,Mexico,0.46
+25-Jun,Panama,0.3
+25-Jun,El Salvador,0.32
+25-Jun,United States,0.29
+2-Jul,Canada,0.29
+2-Jul,Costa Rica,0.42
+2-Jul,Dominican Rep.,0.34
+2-Jul,Guatemala,0.32
+2-Jul,Honduras,0.3
+2-Jul,Mexico,0.44
+2-Jul,Panama,0.28
+2-Jul,El Salvador,0.3
+2-Jul,United States,0.28
+9-Jul,Canada,0.26
+9-Jul,Costa Rica,0.41
+9-Jul,Dominican Rep.,0.32
+9-Jul,Guatemala,0.33
+9-Jul,Honduras,0.29
+9-Jul,Mexico,0.42
+9-Jul,Panama,0.27
+9-Jul,El Salvador,0.3
+9-Jul,United States,0.25
+16-Jul,Canada,0.28
+16-Jul,Costa Rica,0.41
+16-Jul,Dominican Rep.,0.31
+16-Jul,Guatemala,0.32
+16-Jul,Honduras,0.29
+16-Jul,Mexico,0.4
+16-Jul,Panama,0.26
+16-Jul,El Salvador,0.26
+16-Jul,United States,0.26
+23-Jul,Canada,0.21
+23-Jul,Costa Rica,0.38
+23-Jul,Dominican Rep.,0.28
+23-Jul,Guatemala,0.31
+23-Jul,Honduras,0.25
+23-Jul,Mexico,0.38
+23-Jul,Panama,0.24
+23-Jul,El Salvador,0.26
+23-Jul,United States,0.21
+30-Jul,Canada,0.24
+30-Jul,Costa Rica,0.38
+30-Jul,Dominican Rep.,0.26
+30-Jul,Guatemala,0.29
+30-Jul,Honduras,0.24
+30-Jul,Mexico,0.39
+30-Jul,Panama,0.25
+30-Jul,El Salvador,0.25
+30-Jul,United States,0.25
+6-Aug,Canada,0.22
+6-Aug,Costa Rica,0.37
+6-Aug,Dominican Rep.,0.25
+6-Aug,Guatemala,0.29
+6-Aug,Honduras,0.23
+6-Aug,Mexico,0.4
+6-Aug,Panama,0.23
+6-Aug,El Salvador,0.23
+6-Aug,United States,0.25
+13-Aug,Canada,0.23
+13-Aug,Costa Rica,0.34
+13-Aug,Dominican Rep.,0.23
+13-Aug,Guatemala,0.28
+13-Aug,Honduras,0.22
+13-Aug,Mexico,0.37
+13-Aug,Panama,0.21
+13-Aug,El Salvador,0.23
+13-Aug,United States,0.24
+20-Aug,Canada,0.23
+20-Aug,Costa Rica,0.33
+20-Aug,Dominican Rep.,0.23
+20-Aug,Guatemala,0.26
+20-Aug,Honduras,0.22
+20-Aug,Mexico,0.35
+20-Aug,Panama,0.2
+20-Aug,El Salvador,0.22
+20-Aug,United States,0.23
+27-Aug,Canada,0.18
+27-Aug,Costa Rica,0.34
+27-Aug,Dominican Rep.,0.21
+27-Aug,Guatemala,0.24
+27-Aug,Honduras,0.18
+27-Aug,Mexico,0.35
+27-Aug,Panama,0.18
+27-Aug,El Salvador,0.21
+27-Aug,United States,0.17
+3-Sep,Canada,0.16
+3-Sep,Costa Rica,0.32
+3-Sep,Dominican Rep.,0.21
+3-Sep,Guatemala,0.23
+3-Sep,Honduras,0.17
+3-Sep,Mexico,0.35
+3-Sep,Panama,0.17
+3-Sep,El Salvador,0.21
+3-Sep,United States,0.2
+10-Sep,Canada,0.15
+10-Sep,Costa Rica,0.31
+10-Sep,Dominican Rep.,0.18
+10-Sep,Guatemala,0.24
+10-Sep,Honduras,0.18
+10-Sep,Mexico,0.34
+10-Sep,Panama,0.17
+10-Sep,El Salvador,0.17
+10-Sep,United States,0.2
+17-Sep,Canada,0.14
+17-Sep,Costa Rica,0.32
+17-Sep,Dominican Rep.,0.19
+17-Sep,Guatemala,0.22
+17-Sep,Honduras,0.17
+17-Sep,Mexico,0.33
+17-Sep,Panama,0.16
+17-Sep,El Salvador,0.17
+17-Sep,United States,0.19
+24-Sep,Canada,0.14
+24-Sep,Costa Rica,0.29
+24-Sep,Dominican Rep.,0.19
+24-Sep,Guatemala,0.22
+24-Sep,Honduras,0.18
+24-Sep,Mexico,0.32
+24-Sep,Panama,0.16
+24-Sep,El Salvador,0.17
+24-Sep,United States,0.19
+1-Oct,Canada,0.14
+1-Oct,Costa Rica,0.29
+1-Oct,Dominican Rep.,0.17
+1-Oct,Guatemala,0.23
+1-Oct,Honduras,0.16
+1-Oct,Mexico,0.3
+1-Oct,Panama,0.16
+1-Oct,El Salvador,0.16
+1-Oct,United States,0.18
+8-Oct,Canada,0.13
+8-Oct,Costa Rica,0.29
+8-Oct,Dominican Rep.,0.18
+8-Oct,Guatemala,0.22
+8-Oct,Honduras,0.15
+8-Oct,Mexico,0.31
+8-Oct,Panama,0.14
+8-Oct,El Salvador,0.11
+8-Oct,United States,0.16
+15-Oct,Canada,0.14
+15-Oct,Costa Rica,0.28
+15-Oct,Dominican Rep.,0.17
+15-Oct,Guatemala,0.23
+15-Oct,Honduras,0.13
+15-Oct,Mexico,0.29
+15-Oct,Panama,0.15
+15-Oct,El Salvador,0.13
+15-Oct,United States,0.18
+22-Oct,Canada,0.12
+22-Oct,Costa Rica,0.27
+22-Oct,Dominican Rep.,0.16
+22-Oct,Guatemala,0.21
+22-Oct,Honduras,0.11
+22-Oct,Mexico,0.28
+22-Oct,Panama,0.13
+22-Oct,El Salvador,0.14
+22-Oct,United States,0.15
+29-Oct,Canada,0.13
+29-Oct,Costa Rica,0.27
+29-Oct,Dominican Rep.,0.14
+29-Oct,Guatemala,0.21
+29-Oct,Honduras,0.1
+29-Oct,Mexico,0.28
+29-Oct,Panama,0.12
+29-Oct,El Salvador,0.1
+29-Oct,United States,0.16
+5-Nov,Canada,0.1
+5-Nov,Costa Rica,0.26
+5-Nov,Dominican Rep.,0.17
+5-Nov,Guatemala,0.19
+5-Nov,Honduras,0.09
+5-Nov,Mexico,0.25
+5-Nov,Panama,0.14
+5-Nov,El Salvador,0.1
+5-Nov,United States,0.13
+12-Nov,Canada,0.11
+12-Nov,Costa Rica,0.26
+12-Nov,Dominican Rep.,0.15
+12-Nov,Guatemala,0.2
+12-Nov,Honduras,0.08
+12-Nov,Mexico,0.25
+12-Nov,Panama,0.12
+12-Nov,El Salvador,0.08
+12-Nov,United States,0.15
+19-Nov,Canada,0.1
+19-Nov,Costa Rica,0.27
+19-Nov,Dominican Rep.,0.14
+19-Nov,Guatemala,0.2
+19-Nov,Honduras,0.07
+19-Nov,Mexico,0.25
+19-Nov,Panama,0.11
+19-Nov,El Salvador,0.09
+19-Nov,United States,0.15
+26-Nov,Canada,0.1
+26-Nov,Costa Rica,0.26
+26-Nov,Dominican Rep.,0.14
+26-Nov,Guatemala,0.19
+26-Nov,Honduras,0.06
+26-Nov,Mexico,0.24
+26-Nov,Panama,0.13
+26-Nov,El Salvador,0.08
+26-Nov,United States,0.14
+3-Dec,Canada,0.09
+3-Dec,Costa Rica,0.26
+3-Dec,Dominican Rep.,0.12
+3-Dec,Guatemala,0.18
+3-Dec,Honduras,0.05
+3-Dec,Mexico,0.25
+3-Dec,Panama,0.11
+3-Dec,El Salvador,0.07
+3-Dec,United States,0.1
+10-Dec,Canada,0.08
+10-Dec,Costa Rica,0.26
+10-Dec,Dominican Rep.,0.14
+10-Dec,Guatemala,0.19
+10-Dec,Honduras,0.07
+10-Dec,Mexico,0.27
+10-Dec,Panama,0.11
+10-Dec,El Salvador,0.09
+10-Dec,United States,0.1
+17-Dec,Canada,0.07
+17-Dec,Costa Rica,0.28
+17-Dec,Dominican Rep.,0.12
+17-Dec,Guatemala,0.18
+17-Dec,Honduras,0.08
+17-Dec,Mexico,0.26
+17-Dec,Panama,0.12
+17-Dec,El Salvador,0.08
+17-Dec,United States,0.09
+24-Dec,Canada,0.01
+24-Dec,Costa Rica,0.26
+24-Dec,Dominican Rep.,0.13
+24-Dec,Guatemala,0.17
+24-Dec,Honduras,0.11
+24-Dec,Mexico,0.24
+24-Dec,Panama,0.11
+24-Dec,El Salvador,0.11
+24-Dec,United States,0.05
+31-Dec,Canada,0.14
+31-Dec,Costa Rica,0.26
+31-Dec,Dominican Rep.,0.14
+31-Dec,Guatemala,0.19
+31-Dec,Honduras,0.11
+31-Dec,Mexico,0.26
+31-Dec,Panama,0.15
+31-Dec,El Salvador,0.12
+31-Dec,United States,0.16
+7-Jan,Canada,0.1
+7-Jan,Costa Rica,0.24
+7-Jan,Dominican Rep.,0.1
+7-Jan,Guatemala,0.17
+7-Jan,Honduras,0.05
+7-Jan,Mexico,0.23
+7-Jan,Panama,0.1
+7-Jan,El Salvador,0.07
+7-Jan,United States,0.15
+1-Jan,Argentina,1
+1-Jan,Bolivia,1
+1-Jan,Brazil,1
+1-Jan,Chile,1
+1-Jan,Colombia,1
+1-Jan,Ecuador,1
+1-Jan,Peru,1
+1-Jan,Paraguay,1
+1-Jan,Uruguay,1
+8-Jan,Argentina,0.76
+8-Jan,Bolivia,0.91
+8-Jan,Brazil,0.88
+8-Jan,Chile,0.73
+8-Jan,Colombia,0.68
+8-Jan,Ecuador,0.82
+8-Jan,Peru,0.84
+8-Jan,Paraguay,0.82
+8-Jan,Uruguay,0.85
+15-Jan,Argentina,0.73
+15-Jan,Bolivia,0.81
+15-Jan,Brazil,0.84
+15-Jan,Chile,0.7
+15-Jan,Colombia,0.65
+15-Jan,Ecuador,0.8
+15-Jan,Peru,0.8
+15-Jan,Paraguay,0.82
+15-Jan,Uruguay,0.78
+22-Jan,Argentina,0.71
+22-Jan,Bolivia,0.78
+22-Jan,Brazil,0.82
+22-Jan,Chile,0.62
+22-Jan,Colombia,0.63
+22-Jan,Ecuador,0.76
+22-Jan,Peru,0.79
+22-Jan,Paraguay,0.8
+22-Jan,Uruguay,0.78
+29-Jan,Argentina,0.7
+29-Jan,Bolivia,0.8
+29-Jan,Brazil,0.78
+29-Jan,Chile,0.61
+29-Jan,Colombia,0.64
+29-Jan,Ecuador,0.76
+29-Jan,Peru,0.76
+29-Jan,Paraguay,0.79
+29-Jan,Uruguay,0.74
+5-Feb,Argentina,0.64
+5-Feb,Bolivia,0.72
+5-Feb,Brazil,0.76
+5-Feb,Chile,0.6
+5-Feb,Colombia,0.61
+5-Feb,Ecuador,0.74
+5-Feb,Peru,0.72
+5-Feb,Paraguay,0.79
+5-Feb,Uruguay,0.76
+12-Feb,Argentina,0.64
+12-Feb,Bolivia,0.67
+12-Feb,Brazil,0.72
+12-Feb,Chile,0.58
+12-Feb,Colombia,0.6
+12-Feb,Ecuador,0.73
+12-Feb,Peru,0.7
+12-Feb,Paraguay,0.75
+12-Feb,Uruguay,0.74
+19-Feb,Argentina,0.62
+19-Feb,Bolivia,0.65
+19-Feb,Brazil,0.7
+19-Feb,Chile,0.59
+19-Feb,Colombia,0.6
+19-Feb,Ecuador,0.7
+19-Feb,Peru,0.68
+19-Feb,Paraguay,0.69
+19-Feb,Uruguay,0.65
+26-Feb,Argentina,0.61
+26-Feb,Bolivia,0.66
+26-Feb,Brazil,0.68
+26-Feb,Chile,0.55
+26-Feb,Colombia,0.58
+26-Feb,Ecuador,0.7
+26-Feb,Peru,0.64
+26-Feb,Paraguay,0.65
+26-Feb,Uruguay,0.65
+5-Mar,Argentina,0.56
+5-Mar,Bolivia,0.56
+5-Mar,Brazil,0.62
+5-Mar,Chile,0.51
+5-Mar,Colombia,0.55
+5-Mar,Ecuador,0.62
+5-Mar,Peru,0.59
+5-Mar,Paraguay,0.59
+5-Mar,Uruguay,0.57
+12-Mar,Argentina,0.55
+12-Mar,Bolivia,0.54
+12-Mar,Brazil,0.6
+12-Mar,Chile,0.51
+12-Mar,Colombia,0.55
+12-Mar,Ecuador,0.64
+12-Mar,Peru,0.58
+12-Mar,Paraguay,0.6
+12-Mar,Uruguay,0.59
+19-Mar,Argentina,0.53
+19-Mar,Bolivia,0.55
+19-Mar,Brazil,0.6
+19-Mar,Chile,0.52
+19-Mar,Colombia,0.58
+19-Mar,Ecuador,0.64
+19-Mar,Peru,0.59
+19-Mar,Paraguay,0.57
+19-Mar,Uruguay,0.59
+26-Mar,Argentina,0.53
+26-Mar,Bolivia,0.5
+26-Mar,Brazil,0.59
+26-Mar,Chile,0.51
+26-Mar,Colombia,0.55
+26-Mar,Ecuador,0.62
+26-Mar,Peru,0.58
+26-Mar,Paraguay,0.56
+26-Mar,Uruguay,0.6
+2-Apr,Argentina,0.52
+2-Apr,Bolivia,0.5
+2-Apr,Brazil,0.57
+2-Apr,Chile,0.49
+2-Apr,Colombia,0.55
+2-Apr,Ecuador,0.6
+2-Apr,Peru,0.57
+2-Apr,Paraguay,0.55
+2-Apr,Uruguay,0.57
+9-Apr,Argentina,0.48
+9-Apr,Bolivia,0.46
+9-Apr,Brazil,0.57
+9-Apr,Chile,0.47
+9-Apr,Colombia,0.54
+9-Apr,Ecuador,0.6
+9-Apr,Peru,0.55
+9-Apr,Paraguay,0.49
+9-Apr,Uruguay,0.55
+16-Apr,Argentina,0.5
+16-Apr,Bolivia,0.43
+16-Apr,Brazil,0.54
+16-Apr,Chile,0.47
+16-Apr,Colombia,0.51
+16-Apr,Ecuador,0.59
+16-Apr,Peru,0.54
+16-Apr,Paraguay,0.49
+16-Apr,Uruguay,0.54
+23-Apr,Argentina,0.48
+23-Apr,Bolivia,0.43
+23-Apr,Brazil,0.53
+23-Apr,Chile,0.45
+23-Apr,Colombia,0.52
+23-Apr,Ecuador,0.56
+23-Apr,Peru,0.54
+23-Apr,Paraguay,0.48
+23-Apr,Uruguay,0.52
+30-Apr,Argentina,0.47
+30-Apr,Bolivia,0.4
+30-Apr,Brazil,0.48
+30-Apr,Chile,0.43
+30-Apr,Colombia,0.51
+30-Apr,Ecuador,0.54
+30-Apr,Peru,0.51
+30-Apr,Paraguay,0.44
+30-Apr,Uruguay,0.48
+7-May,Argentina,0.46
+7-May,Bolivia,0.39
+7-May,Brazil,0.48
+7-May,Chile,0.41
+7-May,Colombia,0.49
+7-May,Ecuador,0.52
+7-May,Peru,0.48
+7-May,Paraguay,0.43
+7-May,Uruguay,0.46
+14-May,Argentina,0.41
+14-May,Bolivia,0.37
+14-May,Brazil,0.46
+14-May,Chile,0.39
+14-May,Colombia,0.47
+14-May,Ecuador,0.51
+14-May,Peru,0.47
+14-May,Paraguay,0.36
+14-May,Uruguay,0.41
+21-May,Argentina,0.4
+21-May,Bolivia,0.36
+21-May,Brazil,0.46
+21-May,Chile,0.38
+21-May,Colombia,0.45
+21-May,Ecuador,0.48
+21-May,Peru,0.47
+21-May,Paraguay,0.34
+21-May,Uruguay,0.39
+28-May,Argentina,0.41
+28-May,Bolivia,0.35
+28-May,Brazil,0.44
+28-May,Chile,0.38
+28-May,Colombia,0.47
+28-May,Ecuador,0.49
+28-May,Peru,0.46
+28-May,Paraguay,0.36
+28-May,Uruguay,0.41
+4-Jun,Argentina,0.39
+4-Jun,Bolivia,0.35
+4-Jun,Brazil,0.44
+4-Jun,Chile,0.39
+4-Jun,Colombia,0.44
+4-Jun,Ecuador,0.47
+4-Jun,Peru,0.45
+4-Jun,Paraguay,0.33
+4-Jun,Uruguay,0.38
+11-Jun,Argentina,0.39
+11-Jun,Bolivia,0.33
+11-Jun,Brazil,0.41
+11-Jun,Chile,0.39
+11-Jun,Colombia,0.44
+11-Jun,Ecuador,0.47
+11-Jun,Peru,0.45
+11-Jun,Paraguay,0.32
+11-Jun,Uruguay,0.37
+18-Jun,Argentina,0.38
+18-Jun,Bolivia,0.31
+18-Jun,Brazil,0.39
+18-Jun,Chile,0.36
+18-Jun,Colombia,0.43
+18-Jun,Ecuador,0.46
+18-Jun,Peru,0.44
+18-Jun,Paraguay,0.31
+18-Jun,Uruguay,0.36
+25-Jun,Argentina,0.36
+25-Jun,Bolivia,0.29
+25-Jun,Brazil,0.38
+25-Jun,Chile,0.34
+25-Jun,Colombia,0.42
+25-Jun,Ecuador,0.42
+25-Jun,Peru,0.41
+25-Jun,Paraguay,0.31
+25-Jun,Uruguay,0.36
+2-Jul,Argentina,0.35
+2-Jul,Bolivia,0.26
+2-Jul,Brazil,0.38
+2-Jul,Chile,0.34
+2-Jul,Colombia,0.42
+2-Jul,Ecuador,0.41
+2-Jul,Peru,0.4
+2-Jul,Paraguay,0.28
+2-Jul,Uruguay,0.33
+9-Jul,Argentina,0.34
+9-Jul,Bolivia,0.26
+9-Jul,Brazil,0.34
+9-Jul,Chile,0.34
+9-Jul,Colombia,0.38
+9-Jul,Ecuador,0.41
+9-Jul,Peru,0.39
+9-Jul,Paraguay,0.28
+9-Jul,Uruguay,0.32
+16-Jul,Argentina,0.34
+16-Jul,Bolivia,0.24
+16-Jul,Brazil,0.34
+16-Jul,Chile,0.33
+16-Jul,Colombia,0.37
+16-Jul,Ecuador,0.37
+16-Jul,Peru,0.38
+16-Jul,Paraguay,0.27
+16-Jul,Uruguay,0.28
+23-Jul,Argentina,0.32
+23-Jul,Bolivia,0.22
+23-Jul,Brazil,0.31
+23-Jul,Chile,0.32
+23-Jul,Colombia,0.35
+23-Jul,Ecuador,0.34
+23-Jul,Peru,0.36
+23-Jul,Paraguay,0.25
+23-Jul,Uruguay,0.28
+30-Jul,Argentina,0.3
+30-Jul,Bolivia,0.24
+30-Jul,Brazil,0.3
+30-Jul,Chile,0.33
+30-Jul,Colombia,0.36
+30-Jul,Ecuador,0.35
+30-Jul,Peru,0.36
+30-Jul,Paraguay,0.25
+30-Jul,Uruguay,0.28
+6-Aug,Argentina,0.3
+6-Aug,Bolivia,0.2
+6-Aug,Brazil,0.28
+6-Aug,Chile,0.31
+6-Aug,Colombia,0.38
+6-Aug,Ecuador,0.34
+6-Aug,Peru,0.34
+6-Aug,Paraguay,0.25
+6-Aug,Uruguay,0.26
+13-Aug,Argentina,0.28
+13-Aug,Bolivia,0.2
+13-Aug,Brazil,0.28
+13-Aug,Chile,0.31
+13-Aug,Colombia,0.34
+13-Aug,Ecuador,0.35
+13-Aug,Peru,0.35
+13-Aug,Paraguay,0.21
+13-Aug,Uruguay,0.26
+20-Aug,Argentina,0.27
+20-Aug,Bolivia,0.19
+20-Aug,Brazil,0.27
+20-Aug,Chile,0.29
+20-Aug,Colombia,0.34
+20-Aug,Ecuador,0.32
+20-Aug,Peru,0.33
+20-Aug,Paraguay,0.19
+20-Aug,Uruguay,0.23
+27-Aug,Argentina,0.26
+27-Aug,Bolivia,0.17
+27-Aug,Brazil,0.26
+27-Aug,Chile,0.28
+27-Aug,Colombia,0.33
+27-Aug,Ecuador,0.31
+27-Aug,Peru,0.32
+27-Aug,Paraguay,0.18
+27-Aug,Uruguay,0.23
+3-Sep,Argentina,0.25
+3-Sep,Bolivia,0.17
+3-Sep,Brazil,0.24
+3-Sep,Chile,0.27
+3-Sep,Colombia,0.31
+3-Sep,Ecuador,0.3
+3-Sep,Peru,0.29
+3-Sep,Paraguay,0.2
+3-Sep,Uruguay,0.22
+10-Sep,Argentina,0.24
+10-Sep,Bolivia,0.14
+10-Sep,Brazil,0.23
+10-Sep,Chile,0.23
+10-Sep,Colombia,0.29
+10-Sep,Ecuador,0.29
+10-Sep,Peru,0.3
+10-Sep,Paraguay,0.18
+10-Sep,Uruguay,0.19
+17-Sep,Argentina,0.24
+17-Sep,Bolivia,0.16
+17-Sep,Brazil,0.2
+17-Sep,Chile,0.21
+17-Sep,Colombia,0.32
+17-Sep,Ecuador,0.28
+17-Sep,Peru,0.28
+17-Sep,Paraguay,0.16
+17-Sep,Uruguay,0.22
+24-Sep,Argentina,0.23
+24-Sep,Bolivia,0.15
+24-Sep,Brazil,0.19
+24-Sep,Chile,0.23
+24-Sep,Colombia,0.29
+24-Sep,Ecuador,0.28
+24-Sep,Peru,0.28
+24-Sep,Paraguay,0.16
+24-Sep,Uruguay,0.22
+1-Oct,Argentina,0.22
+1-Oct,Bolivia,0.15
+1-Oct,Brazil,0.17
+1-Oct,Chile,0.21
+1-Oct,Colombia,0.29
+1-Oct,Ecuador,0.26
+1-Oct,Peru,0.28
+1-Oct,Paraguay,0.14
+1-Oct,Uruguay,0.2
+8-Oct,Argentina,0.23
+8-Oct,Bolivia,0.14
+8-Oct,Brazil,0.18
+8-Oct,Chile,0.22
+8-Oct,Colombia,0.29
+8-Oct,Ecuador,0.26
+8-Oct,Peru,0.27
+8-Oct,Paraguay,0.14
+8-Oct,Uruguay,0.19
+15-Oct,Argentina,0.24
+15-Oct,Bolivia,0.11
+15-Oct,Brazil,0.19
+15-Oct,Chile,0.23
+15-Oct,Colombia,0.3
+15-Oct,Ecuador,0.24
+15-Oct,Peru,0.26
+15-Oct,Paraguay,0.14
+15-Oct,Uruguay,0.18
+22-Oct,Argentina,0.21
+22-Oct,Bolivia,0.13
+22-Oct,Brazil,0.16
+22-Oct,Chile,0.22
+22-Oct,Colombia,0.29
+22-Oct,Ecuador,0.24
+22-Oct,Peru,0.25
+22-Oct,Paraguay,0.12
+22-Oct,Uruguay,0.16
+29-Oct,Argentina,0.21
+29-Oct,Bolivia,0.11
+29-Oct,Brazil,0.15
+29-Oct,Chile,0.2
+29-Oct,Colombia,0.28
+29-Oct,Ecuador,0.24
+29-Oct,Peru,0.26
+29-Oct,Paraguay,0.12
+29-Oct,Uruguay,0.15
+5-Nov,Argentina,0.21
+5-Nov,Bolivia,0.1
+5-Nov,Brazil,0.14
+5-Nov,Chile,0.2
+5-Nov,Colombia,0.26
+5-Nov,Ecuador,0.23
+5-Nov,Peru,0.23
+5-Nov,Paraguay,0.11
+5-Nov,Uruguay,0.16
+12-Nov,Argentina,0.2
+12-Nov,Bolivia,0.11
+12-Nov,Brazil,0.14
+12-Nov,Chile,0.19
+12-Nov,Colombia,0.26
+12-Nov,Ecuador,0.22
+12-Nov,Peru,0.23
+12-Nov,Paraguay,0.12
+12-Nov,Uruguay,0.16
+19-Nov,Argentina,0.19
+19-Nov,Bolivia,0.08
+19-Nov,Brazil,0.12
+19-Nov,Chile,0.18
+19-Nov,Colombia,0.24
+19-Nov,Ecuador,0.2
+19-Nov,Peru,0.23
+19-Nov,Paraguay,0.11
+19-Nov,Uruguay,0.17
+26-Nov,Argentina,0.18
+26-Nov,Bolivia,0.08
+26-Nov,Brazil,0.11
+26-Nov,Chile,0.17
+26-Nov,Colombia,0.24
+26-Nov,Ecuador,0.21
+26-Nov,Peru,0.23
+26-Nov,Paraguay,0.1
+26-Nov,Uruguay,0.17
+3-Dec,Argentina,0.15
+3-Dec,Bolivia,0.07
+3-Dec,Brazil,0.1
+3-Dec,Chile,0.17
+3-Dec,Colombia,0.23
+3-Dec,Ecuador,0.21
+3-Dec,Peru,0.2
+3-Dec,Paraguay,0.1
+3-Dec,Uruguay,0.15
+10-Dec,Argentina,0.17
+10-Dec,Bolivia,0.07
+10-Dec,Brazil,0.12
+10-Dec,Chile,0.18
+10-Dec,Colombia,0.24
+10-Dec,Ecuador,0.21
+10-Dec,Peru,0.2
+10-Dec,Paraguay,0.11
+10-Dec,Uruguay,0.18
+17-Dec,Argentina,0.15
+17-Dec,Bolivia,0.07
+17-Dec,Brazil,0.11
+17-Dec,Chile,0.18
+17-Dec,Colombia,0.28
+17-Dec,Ecuador,0.21
+17-Dec,Peru,0.23
+17-Dec,Paraguay,0.11
+17-Dec,Uruguay,0.14
+24-Dec,Argentina,0.18
+24-Dec,Bolivia,0.07
+24-Dec,Brazil,0.12
+24-Dec,Chile,0.18
+24-Dec,Colombia,0.36
+24-Dec,Ecuador,0.2
+24-Dec,Peru,0.2
+24-Dec,Paraguay,0.1
+24-Dec,Uruguay,0.18
+31-Dec,Argentina,0.2
+31-Dec,Bolivia,0.14
+31-Dec,Brazil,0.12
+31-Dec,Chile,0.24
+31-Dec,Colombia,0.38
+31-Dec,Ecuador,0.24
+31-Dec,Peru,0.24
+31-Dec,Paraguay,0.13
+31-Dec,Uruguay,0.19
+7-Jan,Argentina,0.17
+7-Jan,Bolivia,0.07
+7-Jan,Brazil,0.1
+7-Jan,Chile,0.2
+7-Jan,Colombia,0.28
+7-Jan,Ecuador,0.21
+7-Jan,Peru,0.23
+7-Jan,Paraguay,0.13
+7-Jan,Uruguay,0.17
