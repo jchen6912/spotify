@@ -1,0 +1,379 @@
+group,variable,value
+1-Jan,Hong Kong,1
+1-Jan,Indonesia,1
+1-Jan,Japan,1
+1-Jan,Malaysia,1
+1-Jan,Philippines,1
+1-Jan,Singapore,1
+1-Jan,Taiwan,1
+8-Jan,Hong Kong,0.87
+8-Jan,Indonesia,0.91
+8-Jan,Japan,0.65
+8-Jan,Malaysia,0.92
+8-Jan,Philippines,0.92
+8-Jan,Singapore,0.9
+8-Jan,Taiwan,0.82
+15-Jan,Hong Kong,0.81
+15-Jan,Indonesia,0.84
+15-Jan,Japan,0.51
+15-Jan,Malaysia,0.87
+15-Jan,Philippines,0.9
+15-Jan,Singapore,0.86
+15-Jan,Taiwan,0.79
+22-Jan,Hong Kong,0.79
+22-Jan,Indonesia,0.78
+22-Jan,Japan,0.43
+22-Jan,Malaysia,0.84
+22-Jan,Philippines,0.87
+22-Jan,Singapore,0.81
+22-Jan,Taiwan,0.75
+29-Jan,Hong Kong,0.76
+29-Jan,Indonesia,0.8
+29-Jan,Japan,0.38
+29-Jan,Malaysia,0.8
+29-Jan,Philippines,0.84
+29-Jan,Singapore,0.79
+29-Jan,Taiwan,0.75
+5-Feb,Hong Kong,0.74
+5-Feb,Indonesia,0.76
+5-Feb,Japan,0.35
+5-Feb,Malaysia,0.77
+5-Feb,Philippines,0.8
+5-Feb,Singapore,0.78
+5-Feb,Taiwan,0.69
+12-Feb,Hong Kong,0.7
+12-Feb,Indonesia,0.75
+12-Feb,Japan,0.36
+12-Feb,Malaysia,0.75
+12-Feb,Philippines,0.74
+12-Feb,Singapore,0.75
+12-Feb,Taiwan,0.66
+19-Feb,Hong Kong,0.68
+19-Feb,Indonesia,0.71
+19-Feb,Japan,0.34
+19-Feb,Malaysia,0.73
+19-Feb,Philippines,0.75
+19-Feb,Singapore,0.72
+19-Feb,Taiwan,0.59
+26-Feb,Hong Kong,0.66
+26-Feb,Indonesia,0.67
+26-Feb,Japan,0.32
+26-Feb,Malaysia,0.71
+26-Feb,Philippines,0.71
+26-Feb,Singapore,0.71
+26-Feb,Taiwan,0.61
+5-Mar,Hong Kong,0.6
+5-Mar,Indonesia,0.62
+5-Mar,Japan,0.28
+5-Mar,Malaysia,0.63
+5-Mar,Philippines,0.66
+5-Mar,Singapore,0.62
+5-Mar,Taiwan,0.53
+12-Mar,Hong Kong,0.58
+12-Mar,Indonesia,0.6
+12-Mar,Japan,0.27
+12-Mar,Malaysia,0.62
+12-Mar,Philippines,0.66
+12-Mar,Singapore,0.62
+12-Mar,Taiwan,0.54
+19-Mar,Hong Kong,0.56
+19-Mar,Indonesia,0.6
+19-Mar,Japan,0.26
+19-Mar,Malaysia,0.56
+19-Mar,Philippines,0.63
+19-Mar,Singapore,0.58
+19-Mar,Taiwan,0.48
+26-Mar,Hong Kong,0.54
+26-Mar,Indonesia,0.56
+26-Mar,Japan,0.25
+26-Mar,Malaysia,0.59
+26-Mar,Philippines,0.6
+26-Mar,Singapore,0.58
+26-Mar,Taiwan,0.47
+2-Apr,Hong Kong,0.54
+2-Apr,Indonesia,0.58
+2-Apr,Japan,0.25
+2-Apr,Malaysia,0.58
+2-Apr,Philippines,0.59
+2-Apr,Singapore,0.5
+2-Apr,Taiwan,0.47
+9-Apr,Hong Kong,0.52
+9-Apr,Indonesia,0.53
+9-Apr,Japan,0.23
+9-Apr,Malaysia,0.54
+9-Apr,Philippines,0.57
+9-Apr,Singapore,0.54
+9-Apr,Taiwan,0.41
+16-Apr,Hong Kong,0.5
+16-Apr,Indonesia,0.51
+16-Apr,Japan,0.23
+16-Apr,Malaysia,0.51
+16-Apr,Philippines,0.56
+16-Apr,Singapore,0.52
+16-Apr,Taiwan,0.36
+23-Apr,Hong Kong,0.51
+23-Apr,Indonesia,0.51
+23-Apr,Japan,0.21
+23-Apr,Malaysia,0.51
+23-Apr,Philippines,0.57
+23-Apr,Singapore,0.52
+23-Apr,Taiwan,0.33
+30-Apr,Hong Kong,0.48
+30-Apr,Indonesia,0.48
+30-Apr,Japan,0.21
+30-Apr,Malaysia,0.49
+30-Apr,Philippines,0.57
+30-Apr,Singapore,0.49
+30-Apr,Taiwan,0.36
+7-May,Hong Kong,0.48
+7-May,Indonesia,0.45
+7-May,Japan,0.2
+7-May,Malaysia,0.47
+7-May,Philippines,0.54
+7-May,Singapore,0.46
+7-May,Taiwan,0.35
+14-May,Hong Kong,0.47
+14-May,Indonesia,0.44
+14-May,Japan,0.21
+14-May,Malaysia,0.45
+14-May,Philippines,0.54
+14-May,Singapore,0.46
+14-May,Taiwan,0.35
+21-May,Hong Kong,0.47
+21-May,Indonesia,0.43
+21-May,Japan,0.2
+21-May,Malaysia,0.45
+21-May,Philippines,0.52
+21-May,Singapore,0.46
+21-May,Taiwan,0.33
+28-May,Hong Kong,0.45
+28-May,Indonesia,0.39
+28-May,Japan,0.2
+28-May,Malaysia,0.41
+28-May,Philippines,0.51
+28-May,Singapore,0.46
+28-May,Taiwan,0.35
+4-Jun,Hong Kong,0.41
+4-Jun,Indonesia,0.38
+4-Jun,Japan,0.2
+4-Jun,Malaysia,0.4
+4-Jun,Philippines,0.48
+4-Jun,Singapore,0.44
+4-Jun,Taiwan,0.3
+11-Jun,Hong Kong,0.4
+11-Jun,Indonesia,0.38
+11-Jun,Japan,0.19
+11-Jun,Malaysia,0.34
+11-Jun,Philippines,0.43
+11-Jun,Singapore,0.4
+11-Jun,Taiwan,0.27
+18-Jun,Hong Kong,0.39
+18-Jun,Indonesia,0.39
+18-Jun,Japan,0.19
+18-Jun,Malaysia,0.32
+18-Jun,Philippines,0.45
+18-Jun,Singapore,0.41
+18-Jun,Taiwan,0.28
+25-Jun,Hong Kong,0.41
+25-Jun,Indonesia,0.41
+25-Jun,Japan,0.19
+25-Jun,Malaysia,0.31
+25-Jun,Philippines,0.46
+25-Jun,Singapore,0.42
+25-Jun,Taiwan,0.28
+2-Jul,Hong Kong,0.4
+2-Jul,Indonesia,0.39
+2-Jul,Japan,0.18
+2-Jul,Malaysia,0.39
+2-Jul,Philippines,0.45
+2-Jul,Singapore,0.41
+2-Jul,Taiwan,0.28
+9-Jul,Hong Kong,0.39
+9-Jul,Indonesia,0.37
+9-Jul,Japan,0.18
+9-Jul,Malaysia,0.36
+9-Jul,Philippines,0.42
+9-Jul,Singapore,0.41
+9-Jul,Taiwan,0.26
+16-Jul,Hong Kong,0.39
+16-Jul,Indonesia,0.36
+16-Jul,Japan,0.19
+16-Jul,Malaysia,0.34
+16-Jul,Philippines,0.43
+16-Jul,Singapore,0.4
+16-Jul,Taiwan,0.26
+23-Jul,Hong Kong,0.32
+23-Jul,Indonesia,0.29
+23-Jul,Japan,0.17
+23-Jul,Malaysia,0.26
+23-Jul,Philippines,0.4
+23-Jul,Singapore,0.3
+23-Jul,Taiwan,0.22
+30-Jul,Hong Kong,0.36
+30-Jul,Indonesia,0.3
+30-Jul,Japan,0.18
+30-Jul,Malaysia,0.3
+30-Jul,Philippines,0.41
+30-Jul,Singapore,0.34
+30-Jul,Taiwan,0.24
+6-Aug,Hong Kong,0.35
+6-Aug,Indonesia,0.3
+6-Aug,Japan,0.18
+6-Aug,Malaysia,0.3
+6-Aug,Philippines,0.38
+6-Aug,Singapore,0.33
+6-Aug,Taiwan,0.23
+13-Aug,Hong Kong,0.35
+13-Aug,Indonesia,0.29
+13-Aug,Japan,0.17
+13-Aug,Malaysia,0.29
+13-Aug,Philippines,0.4
+13-Aug,Singapore,0.31
+13-Aug,Taiwan,0.24
+20-Aug,Hong Kong,0.35
+20-Aug,Indonesia,0.28
+20-Aug,Japan,0.17
+20-Aug,Malaysia,0.29
+20-Aug,Philippines,0.4
+20-Aug,Singapore,0.32
+20-Aug,Taiwan,0.23
+27-Aug,Hong Kong,0.34
+27-Aug,Indonesia,0.27
+27-Aug,Japan,0.15
+27-Aug,Malaysia,0.29
+27-Aug,Philippines,0.39
+27-Aug,Singapore,0.29
+27-Aug,Taiwan,0.22
+3-Sep,Hong Kong,0.32
+3-Sep,Indonesia,0.27
+3-Sep,Japan,0.15
+3-Sep,Malaysia,0.27
+3-Sep,Philippines,0.38
+3-Sep,Singapore,0.29
+3-Sep,Taiwan,0.2
+10-Sep,Hong Kong,0.32
+10-Sep,Indonesia,0.25
+10-Sep,Japan,0.14
+10-Sep,Malaysia,0.25
+10-Sep,Philippines,0.38
+10-Sep,Singapore,0.28
+10-Sep,Taiwan,0.2
+17-Sep,Hong Kong,0.33
+17-Sep,Indonesia,0.25
+17-Sep,Japan,0.15
+17-Sep,Malaysia,0.26
+17-Sep,Philippines,0.36
+17-Sep,Singapore,0.29
+17-Sep,Taiwan,0.2
+24-Sep,Hong Kong,0.33
+24-Sep,Indonesia,0.23
+24-Sep,Japan,0.14
+24-Sep,Malaysia,0.26
+24-Sep,Philippines,0.34
+24-Sep,Singapore,0.26
+24-Sep,Taiwan,0.2
+1-Oct,Hong Kong,0.33
+1-Oct,Indonesia,0.23
+1-Oct,Japan,0.14
+1-Oct,Malaysia,0.22
+1-Oct,Philippines,0.34
+1-Oct,Singapore,0.26
+1-Oct,Taiwan,0.19
+8-Oct,Hong Kong,0.32
+8-Oct,Indonesia,0.23
+8-Oct,Japan,0.14
+8-Oct,Malaysia,0.2
+8-Oct,Philippines,0.33
+8-Oct,Singapore,0.26
+8-Oct,Taiwan,0.2
+15-Oct,Hong Kong,0.31
+15-Oct,Indonesia,0.22
+15-Oct,Japan,0.13
+15-Oct,Malaysia,0.21
+15-Oct,Philippines,0.34
+15-Oct,Singapore,0.25
+15-Oct,Taiwan,0.17
+22-Oct,Hong Kong,0.3
+22-Oct,Indonesia,0.21
+22-Oct,Japan,0.12
+22-Oct,Malaysia,0.2
+22-Oct,Philippines,0.33
+22-Oct,Singapore,0.25
+22-Oct,Taiwan,0.17
+29-Oct,Hong Kong,0.3
+29-Oct,Indonesia,0.2
+29-Oct,Japan,0.12
+29-Oct,Malaysia,0.2
+29-Oct,Philippines,0.34
+29-Oct,Singapore,0.24
+29-Oct,Taiwan,0.17
+5-Nov,Hong Kong,0.28
+5-Nov,Indonesia,0.2
+5-Nov,Japan,0.12
+5-Nov,Malaysia,0.17
+5-Nov,Philippines,0.28
+5-Nov,Singapore,0.2
+5-Nov,Taiwan,0.15
+12-Nov,Hong Kong,0.29
+12-Nov,Indonesia,0.2
+12-Nov,Japan,0.12
+12-Nov,Malaysia,0.18
+12-Nov,Philippines,0.31
+12-Nov,Singapore,0.19
+12-Nov,Taiwan,0.13
+19-Nov,Hong Kong,0.3
+19-Nov,Indonesia,0.19
+19-Nov,Japan,0.12
+19-Nov,Malaysia,0.19
+19-Nov,Philippines,0.3
+19-Nov,Singapore,0.21
+19-Nov,Taiwan,0.15
+26-Nov,Hong Kong,0.29
+26-Nov,Indonesia,0.18
+26-Nov,Japan,0.13
+26-Nov,Malaysia,0.19
+26-Nov,Philippines,0.31
+26-Nov,Singapore,0.21
+26-Nov,Taiwan,0.15
+3-Dec,Hong Kong,0.28
+3-Dec,Indonesia,0.2
+3-Dec,Japan,0.12
+3-Dec,Malaysia,0.17
+3-Dec,Philippines,0.29
+3-Dec,Singapore,0.2
+3-Dec,Taiwan,0.16
+10-Dec,Hong Kong,0.29
+10-Dec,Indonesia,0.2
+10-Dec,Japan,0.12
+10-Dec,Malaysia,0.2
+10-Dec,Philippines,0.31
+10-Dec,Singapore,0.21
+10-Dec,Taiwan,0.16
+17-Dec,Hong Kong,0.27
+17-Dec,Indonesia,0.2
+17-Dec,Japan,0.12
+17-Dec,Malaysia,0.18
+17-Dec,Philippines,0.28
+17-Dec,Singapore,0.2
+17-Dec,Taiwan,0.14
+24-Dec,Hong Kong,0.22
+24-Dec,Indonesia,0.2
+24-Dec,Japan,0.06
+24-Dec,Malaysia,0.1
+24-Dec,Philippines,0.18
+24-Dec,Singapore,0.12
+24-Dec,Taiwan,0.14
+31-Dec,Hong Kong,0.31
+31-Dec,Indonesia,0.22
+31-Dec,Japan,0.14
+31-Dec,Malaysia,0.2
+31-Dec,Philippines,0.23
+31-Dec,Singapore,0.23
+31-Dec,Taiwan,0.14
+7-Jan,Hong Kong,0.27
+7-Jan,Indonesia,0.19
+7-Jan,Japan,0.12
+7-Jan,Malaysia,0.17
+7-Jan,Philippines,0.28
+7-Jan,Singapore,0.19
+7-Jan,Taiwan,0.14
